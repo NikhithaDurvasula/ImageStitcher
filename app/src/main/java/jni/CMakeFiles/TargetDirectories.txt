@@ -1,0 +1,3 @@
+/Users/nikhithadurvasula/desktop/jni/CMakeFiles/rebuild_cache.dir
+/Users/nikhithadurvasula/desktop/jni/CMakeFiles/edit_cache.dir
+/Users/nikhithadurvasula/desktop/jni/CMakeFiles/jni.dir
